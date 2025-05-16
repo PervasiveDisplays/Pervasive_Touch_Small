@@ -37,8 +37,8 @@
 // SDK and configuration
 #include "PDLS_Common.h"
 
-#if (PDLS_COMMON_RELEASE < 902)
-#error Required PDLS_COMMON_RELEASE 902
+#if (PDLS_COMMON_RELEASE < 909)
+#error Required PDLS_COMMON_RELEASE 909
 #endif // PDLS_COMMON_RELEASE
 
 // Driver
