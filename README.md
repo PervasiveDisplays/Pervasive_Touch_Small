@@ -6,7 +6,7 @@
 
 The driver is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) e-paper screens, extension boards and evaluation kits.
 
-![](https://pdls.pervasivedisplays.com/userguide/img/Logo_PDI_text_320.png)
+![](https://docs.pervasivedisplays.com/knowledge/img/Pervasive_Displays_logo_gray.png)
 
 The **Pervasive_Touch_Small** supports the screens
 
@@ -14,7 +14,7 @@ The **Pervasive_Touch_Small** supports the screens
 
 the extension boards
 
-* Pervasive Displays [EPD Extension Kit Gen 3 (EXT3 or EXT3.1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/).
+* Pervasive Displays [EPD Extension Kit Gen 3 (EXT3.1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/).
 * Pervasive Displays [Touch Expansion Board for EXT3 (EXT3-Touch)](https://www.pervasivedisplays.com/product/touch-expansion-board-ext3-touch/);
 
 the development kit
@@ -24,6 +24,8 @@ the development kit
 ## Features
 
 The driver library can be used stand-alone or with the [Pervasive Displays Library Suite](https://pdls.pervasivedisplays.com/userguide/index.html). 
+
+**Note**: This library requires [PDLS Common](https://github.com/PervasiveDisplays/PDLS_Common).
 
 ## Documentation
 
