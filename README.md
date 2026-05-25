@@ -6,7 +6,7 @@
 
 The driver is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) e-paper screens, extension boards and evaluation kits.
 
-![](https://pdls.pervasivedisplays.com/userguide/img/Logo_PDI_text_320.png)
+![](https://docs.pervasivedisplays.com/knowledge/img/Pervasive_Displays_logo_gray.png)
 
 The **Pervasive_Touch_Small** supports the screens
 
@@ -14,7 +14,7 @@ The **Pervasive_Touch_Small** supports the screens
 
 the extension boards
 
-* Pervasive Displays [EPD Extension Kit Gen 3 (EXT3 or EXT3.1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/).
+* Pervasive Displays [EPD Extension Kit Gen 3 (EXT3.1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/).
 * Pervasive Displays [Touch Expansion Board for EXT3 (EXT3-Touch)](https://www.pervasivedisplays.com/product/touch-expansion-board-ext3-touch/);
 
 the development kit
@@ -25,11 +25,13 @@ the development kit
 
 The driver library can be used stand-alone or with the [Pervasive Displays Library Suite](https://pdls.pervasivedisplays.com/userguide/index.html). 
 
+**Note**: This library requires [PDLS Common](https://github.com/PervasiveDisplays/PDLS_Common).
+
 ## Documentation
 
 * [Application Note for small sizes of wide temperature EPDs](https://www.pervasivedisplays.com/wp-content/uploads/2023/02/ApplicationNote_Small_Size_wide-Temperature_EPD_v03_20231031_B.pdf)
 * [Pervasive Displays Technical Wiki](https://docs.pervasivedisplays.com/) 
-* [Pervasive Displays, Inc. (龍亭新技股份有限公司)](https://www.pervasivedisplays.com/)
+* [Pervasive Displays Inc. (龍亭新技股份有限公司)](https://www.pervasivedisplays.com/)
 * [Product line](https://www.pervasivedisplays.com/products/)
 
 ## Support
@@ -66,11 +68,9 @@ Hardware
 
 ## Licence
 
-**Copyright** &copy; Rei Vilo, 2010-2025
+**Copyright** &copy; Pervasive Displays Inc., 2021-2026
 
-For exclusive use with Pervasive Displays screens
+*For exclusive use with Pervasive Displays screens*
 
 **Licence** [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](./LICENCE.md)
-
-**Portions** &copy; Pervasive Displays, 2010-2025
 
